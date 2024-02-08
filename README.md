@@ -30,6 +30,11 @@ Users should be able to:
 
 ![](/images/WhatsApp%20Image%202024-02-08%20at%201.21.48%20PM.jpeg)
 
+#### Active states
+
+![](/images/WhatsApp%20Image%202024-02-08%20at%202.23.21%20PM.jpeg)
+
+
 ### Links
 
 - Solution URL: [Dashboard](https://time-track-dashboard-theta.vercel.app/)
